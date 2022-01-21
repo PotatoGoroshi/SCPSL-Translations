@@ -1,0 +1,4 @@
+<size=180><color=red>비활성화됨</color></size>
+<color=red><size=200>대기중..</size></color>
+<color=lime><size=180>준비됨</size></color>
+알파 핵탄두 폭발 취소 불가

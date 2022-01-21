@@ -1,0 +1,21 @@
+{
+  "Name": "한국어 - Korean",
+  "Authors": [
+    "Dr-Devan",
+    "Arizen",
+    "schade",
+    "SovietNakJi",
+    "죄천이"
+  ],
+  "InterfaceLocales": [
+    "ko-KR",
+    "ko"
+  ],
+  "SystemLocales": [
+    "ko-KR",
+    "ko"
+  ],
+  "ForcedFontOrder": [
+    "NotoSansCJKkr-RegularDynamic"
+  ]
+}
