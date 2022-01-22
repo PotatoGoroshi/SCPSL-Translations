@@ -11,7 +11,7 @@
 <color=#F00>SCP-049-2</color>는 소생된 좀비로,\n수가 많아질수록 게임을 유리하게 만들 수 있습니다.
 위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n일원입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고,\n<color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
 위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n높은 직급을 가진 지휘관입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고, <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
-위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n낮은 직급을 가진 입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고, <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
+위험으로부터 재단의 안전을 책임지는 엘리트 특무부대의\n낮은 직급을 가진 이등병입니다. 주요 목표는 모든 <color=#F00>SCP</color>, <color=#008F1E>혼돈의 반란</color>, <color=#FF8E00>D계급 인원</color>을 제거하고, <color=#FFFF7CFF>과학자</color>를 안전하게 탈출시키는 것 입니다.
 과제를 수행하여 목표를 달성하십시오.\n다른 용도로 사용할 수도 있습니다..
 안전을 책임지는 <color=#808080>시설 경비</color>의 목표는\n<color=#FFFF7CFF>과학자</color>의 탈출을 돕고 곧 있을 <color=#F00>SCP</color>의 위협을 멈추는 것입니다.\n<color=#0096FF>구미호 특무부대</color>와 협력하여 방해가 되는 모든 것을 사살하십시오.
 <color=#F00>SCP-939-53</color>은 소리로 세상을 봅니다.\n재빠르고도 조용한 기동력을 가지고 있어\n암살에 특화되어 있습니다.
