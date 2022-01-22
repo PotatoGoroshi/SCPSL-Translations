@@ -14,4 +14,4 @@ SCP 처치 도움
 공격 받는 중!
 활성화된 발전기가 지도에 표시됩니다
 경고!
-<color=#F00>SCP</color>{0}<color=#0096FF>MTF</color> & <color=#808080>경비</color>{1}<color=#FFFF7CFF>과학자</color>{2}<color=#FF8E00>D 계급</color>{3}<color=#008F1e>혼돈의 반란</color>{4}
+<color=#F00>SCP</color>{0}<color=#0096FF>MTF</color> & <color=#808080>경비</color>{1}<color=#FFFF7CFF>과학자</color>{2}<color=#FF8E00>D계급</color>{3}<color=#008F1e>혼돈의 반란</color>{4}
